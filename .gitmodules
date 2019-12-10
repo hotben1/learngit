@@ -1,0 +1,3 @@
+[submodule "testgit"]
+	path = testgit
+	url = git@github.com:hotben1/testgit.git
